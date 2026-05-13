@@ -1,0 +1,13 @@
+# Security and Credentials
+.env
+
+# Python Environment and Cache
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Local Data and Results
+outputs/
+data/*.pdf
+data/*.txt
